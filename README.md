@@ -1,2 +1,2 @@
-# Exercicios-aulas-aovivo
-Repositório de exercicios das aulas ao vivo do curso da Trybe
+<h1>Repositório criado para armazenar os exercicios das aulas ao vivo</h1>
+
